@@ -1,13 +1,13 @@
 { 
-  "ChatOwner": "6281548907132@s.whatsapp.net",
-  "ownerNumber": "6281548907132@s.whatsapp.net",
-  "botName": "BotGaa",
-  "ownerName": "Angga",
+  "ChatOwner": "6281528507289@s.whatsapp.net",
+  "ownerNumber": "6281528507289@s.whatsapp.net",
+  "botName": "KirzBot",
+  "ownerName": "Saleh Kirz",
   "sessionName": "session",
-  "footer": "© AnggaBot 2022",
+  "footer": "© Saleh Kirz 2022",
   "api_lolkey": "SadTeams",
   "group":{
   "judul": "Forum Bot WhatsApp",
-  "link": "https://chat.whatsapp.com/IzbGdPjnS1UFRnBGY0a3w6"
+  "link": "https://chat.whatsapp.com/Fvx2MTPUUW74Gp5Jc6QESN"
   }
 }
