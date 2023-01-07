@@ -34,7 +34,6 @@ return`
  ${no++} ➳ ${prefix}listjadibot
  ${no++} ➳ ${prefix}sewabot
  ${no++} ➳ ${prefix}groupbot
- ${no++} ➳ ${prefix}ownerinfo
  ${no++} ➳ ${prefix}infoowner
 
  𝙐𝙎𝙀𝙍 𝙈𝙀𝙉𝙐 
