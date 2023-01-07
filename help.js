@@ -60,6 +60,7 @@ return`
  ${no++} ➳ ${prefix}setwm
  ${no++} ➳ ${prefix}setfooter
  ${no++} ➳ ${prefix}setppbot
+ ${no++} ➳ ${prefix}setnamabot
  ${no++} ➳ ${prefix}addprem
  ${no++} ➳ ${prefix}delprem
  ${no++} ➳ ${prefix}bc
